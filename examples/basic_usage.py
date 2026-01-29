@@ -2,6 +2,7 @@
 Basic usage example for EDRP-DiaBD package.
 """
 
+import utils.session
 import numpy as np
 import pandas as pd
 from src.models import create_1d_cnn_model

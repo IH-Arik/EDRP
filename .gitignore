@@ -96,7 +96,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -135,7 +134,6 @@ models/saved/
 *.hdf5
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -157,3 +155,9 @@ Thumbs.db
 *.xlsx
 *.xls
 !data/sample_data.csv
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
+node_modules
